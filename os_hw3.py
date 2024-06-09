@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
+print("successful hw3 !")
 
-list = []
-for i in range(1000000000):
-  list.append(i)
-print(list)
 
